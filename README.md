@@ -203,3 +203,8 @@ There are many terrific free tools for viewing medical imaging data. Since they 
  - [Slicer 3D](https://www.slicer.org) is daunting at first, but provides tremendous power and flexibility.
  - [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html) has powerful segmentation routines.
  - For DICOM images (but not other formats), [Horos](https://horosproject.org) is outstanding.
+ 
+ ## Citation
+
+ - Rorden C (2025) MRIcroGL: voxel-based visualization for neuroimaging. Nature Methods. [doi: 10.1038/s41592-025-02763-7](https://doi.org/10.1038/s41592-025-02763-7)
+

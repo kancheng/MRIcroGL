@@ -16,7 +16,7 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="3365"/>
+        <TopLine Value="3370"/>
         <CursorPos X="23" Y="3370"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
@@ -88,7 +88,7 @@
       </Unit10>
       <Unit11>
         <Filename Value="slices2D.pas"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="1"/>
         <TopLine Value="87"/>
         <CursorPos X="20" Y="107"/>
         <UsageCount Value="10"/>
@@ -96,42 +96,39 @@
       </Unit11>
       <Unit12>
         <Filename Value="../Metal-Demos/common/sdffont.pas"/>
-        <EditorIndex Value="6"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="13"/>
         <CursorPos X="3" Y="31"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit12>
       <Unit13>
         <Filename Value="glvolume2.pas"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="3"/>
         <TopLine Value="1823"/>
-        <CursorPos X="30" Y="1829"/>
+        <CursorPos X="15" Y="1829"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit13>
       <Unit14>
         <Filename Value="../Metal-Demos/common/VectorMath.pas"/>
-        <EditorIndex Value="5"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="56"/>
         <CursorPos X="9" Y="56"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit14>
       <Unit15>
         <Filename Value="opts.inc"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="2"/>
         <CursorPos Y="7"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit15>
       <Unit16>
         <Filename Value="../Metal-Demos/common/glclrbar.pas"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="55"/>
         <CursorPos X="14" Y="71"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit16>
     </Units>
     <JumpHistory Count="30" HistoryIndex="29">

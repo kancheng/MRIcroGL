@@ -116,8 +116,8 @@
     </SearchPaths>
     <CodeGeneration>
       <SmartLinkUnit Value="True"/>
-      <TargetProcessor Value="ATHLON64"/>
-      <TargetCPU Value="x86_64"/>
+      <RelocatableUnit Value="True"/>
+      <TargetCPU Value="aarch64"/>
       <Optimizations>
         <OptimizationLevel Value="0"/>
       </Optimizations>
@@ -127,7 +127,6 @@
         <DebugInfoType Value="dsDwarf2"/>
         <StripSymbols Value="True"/>
       </Debugging>
-      <LinkSmart Value="True"/>
       <Options>
         <Win32>
           <GraphicApplication Value="True"/>
